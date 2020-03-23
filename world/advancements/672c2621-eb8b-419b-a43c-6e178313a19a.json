@@ -113,13 +113,17 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
+      "Completed Wood You Hand Me That Crate Please?": "2020-03-23 11:18:48 -0700",
       "Completed I WANT IT NOW!": "2020-03-22 21:35:37 -0700",
       "Completed Wares the Remote?": "2020-03-22 22:01:03 -0700",
       "Completed Whopper!": "2020-03-22 14:25:04 -0700",
       "Completed ɹǝddoH": "2020-03-22 16:26:21 -0700",
       "Completed CAT 5": "2020-03-22 21:34:32 -0700",
+      "Completed It Fits, We Ship": "2020-03-23 11:32:14 -0700",
       "Completed Master Blaster": "2020-03-22 21:35:39 -0700",
+      "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
+      "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
@@ -178,6 +182,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/bdsandmmetalcrate": {
+    "criteria": {
+      "Obtain Metal Crate": "2020-03-23 11:23:58 -0700"
+    },
+    "done": true
+  },
   "pacifist:pacifist_run/root": {
     "criteria": {
       "hasRock": "2020-03-20 15:52:36 -0700"
@@ -192,13 +202,17 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
+      "Completed Wood You Hand Me That Crate Please?": "2020-03-23 11:18:48 -0700",
       "Completed I WANT IT NOW!": "2020-03-22 21:35:37 -0700",
       "Completed Wares the Remote?": "2020-03-22 22:01:03 -0700",
       "Completed Whopper!": "2020-03-22 14:25:04 -0700",
       "Completed ɹǝddoH": "2020-03-22 16:26:21 -0700",
       "Completed CAT 5": "2020-03-22 21:34:32 -0700",
+      "Completed It Fits, We Ship": "2020-03-23 11:32:14 -0700",
       "Completed Master Blaster": "2020-03-22 21:35:39 -0700",
+      "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
+      "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
@@ -217,6 +231,12 @@
       "Obtain Blue Slime Sapling": "2020-03-22 14:53:36 -0700"
     },
     "done": false
+  },
+  "sf4:age_farming/enderseeds": {
+    "criteria": {
+      "Obtain Ender Seeds": "2020-03-23 12:02:25 -0700"
+    },
+    "done": true
   },
   "sf4:age1/slabs": {
     "criteria": {
@@ -268,6 +288,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/bdsandmwoodencrate": {
+    "criteria": {
+      "Obtain Wood Crate": "2020-03-23 11:18:48 -0700"
+    },
+    "done": true
+  },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
       "Completed Age of Exploration": "2020-03-20 15:52:35 -0700"
@@ -285,6 +311,7 @@
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:52:35 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:15 -0700",
+      "Completed It\u0027s Over 20!": "2020-03-23 10:59:48 -0700",
       "Completed Paxel Rose": "2020-03-20 16:55:31 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700"
     },
@@ -435,6 +462,7 @@
   },
   "sf4:age_farming/animalseeds": {
     "criteria": {
+      "Enderman Seed": "2020-03-23 11:24:51 -0700",
       "Cow Seed": "2020-03-21 20:53:40 -0700"
     },
     "done": false
@@ -463,6 +491,12 @@
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
       "Obtain Gravel Sapling": "2020-03-20 18:12:53 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmmetalbarrel": {
+    "criteria": {
+      "Obtain Metal Barrel": "2020-03-23 11:23:56 -0700"
     },
     "done": true
   },
@@ -540,7 +574,8 @@
   "sf4:age_power/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
-      "Completed Age of Power": "2020-03-20 15:52:35 -0700"
+      "Completed Age of Power": "2020-03-20 15:52:35 -0700",
+      "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700"
     },
     "done": false
   },
@@ -577,6 +612,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/bdsandmshippingcontainer": {
+    "criteria": {
+      "Obtain Shipping Container": "2020-03-23 11:32:14 -0700"
+    },
+    "done": true
+  },
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2020-03-20 16:24:54 -0700"
@@ -589,6 +630,12 @@
       "Obtain Tin Amber": "2020-03-22 14:31:46 -0700"
     },
     "done": true
+  },
+  "compactmachines:test/9x9x9": {
+    "criteria": {
+      "Obtain End Stone": "2020-03-23 11:21:45 -0700"
+    },
+    "done": false
   },
   "sf4:age1/acorn/dirt": {
     "criteria": {
@@ -752,15 +799,19 @@
       "Obtain Lapis Sapling": "2020-03-22 14:52:28 -0700",
       "Obtain Bacon Sapling": "2020-03-22 15:42:13 -0700",
       "Obtain Donut Sapling": "2020-03-22 15:35:55 -0700",
+      "Obtain Glowstone Sapling": "2020-03-23 11:34:18 -0700",
+      "Obtain Emerald Sapling": "2020-03-23 10:31:53 -0700",
       "Obtain Petrified Sapling": "2020-03-20 16:32:28 -0700",
       "Obtain Tin Sapling": "2020-03-22 14:33:21 -0700",
+      "Obtain Nickel Sapling": "2020-03-23 10:28:07 -0700",
       "Obtain Iron Sapling": "2020-03-22 14:44:35 -0700",
       "Obtain Sand Sapling": "2020-03-20 18:27:28 -0700",
       "Obtain Gold Sapling": "2020-03-22 15:13:09 -0700",
       "Obtain Redstone Sapling": "2020-03-22 14:47:17 -0700",
       "Obtain Clay Sapling": "2020-03-20 16:40:13 -0700",
       "Obtain Gravel Sapling": "2020-03-20 18:12:53 -0700",
-      "Obtain Bone Sapling": "2020-03-20 18:05:13 -0700"
+      "Obtain Bone Sapling": "2020-03-20 18:05:13 -0700",
+      "Obtain Quartz Sapling": "2020-03-23 11:17:54 -0700"
     },
     "done": false
   },
@@ -885,6 +936,7 @@
     "criteria": {
       "Completed Age of Enhancement": "2020-03-20 15:52:35 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:15 -0700",
+      "Completed It\u0027s Over 20!": "2020-03-23 10:59:48 -0700",
       "Completed Paxel Rose": "2020-03-20 16:55:31 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700"
@@ -897,12 +949,24 @@
     },
     "done": false
   },
+  "sf4:age_enhancement/20damage": {
+    "criteria": {
+      "Deal 20 or More Damage": "2020-03-23 10:59:48 -0700"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/claybucket": {
     "criteria": {
       "Obtain Unfired Clay Bucket": "2020-03-20 17:00:23 -0700",
       "Obtain Clay Bucket": "2020-03-20 17:01:22 -0700"
     },
     "done": false
+  },
+  "sf4:age_power/simplegenerator": {
+    "criteria": {
+      "Obtain Simple Combustion Generator": "2020-03-23 12:30:44 -0700"
+    },
+    "done": true
   },
   "sf4:age1/stone_crook": {
     "criteria": {
@@ -994,7 +1058,8 @@
   "sf4:age_power/complete": {
     "criteria": {
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
-      "Completed Age of Power": "2020-03-20 15:52:35 -0700"
+      "Completed Age of Power": "2020-03-20 15:52:35 -0700",
+      "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700"
     },
     "done": false
   },
@@ -1023,6 +1088,13 @@
     },
     "done": false
   },
+  "compactmachines:test/5x5x52": {
+    "criteria": {
+      "Craft Simple Combustion Generator": "2020-03-23 12:30:44 -0700",
+      "Craft Simple Geothermal Generator": "2020-03-23 13:12:48 -0700"
+    },
+    "done": false
+  },
   "sf4:age_farming/complete": {
     "criteria": {
       "Completed Citizen Cane": "2020-03-22 14:29:55 -0700",
@@ -1031,6 +1103,7 @@
       "Completed Sugar Daddy": "2020-03-22 15:03:07 -0700",
       "Completed Sick Sprinkler": "2020-03-22 16:29:21 -0700",
       "Completed Age of Farming": "2020-03-20 15:52:35 -0700",
+      "Completed It\u0027s the End of the World As We Know It": "2020-03-23 12:02:25 -0700",
       "Completed Shredded Wheat": "2020-03-20 19:14:12 -0700",
       "Completed Bonsai!!!": "2020-03-20 16:54:43 -0700",
       "Completed This Little Piggy": "2020-03-22 16:40:16 -0700",
@@ -1104,6 +1177,7 @@
       "Completed Diagon Alley": "2020-03-20 18:47:58 -0700",
       "Completed Cowabonsai!": "2020-03-22 16:26:16 -0700",
       "Completed Yes We Can!": "2020-03-22 16:20:02 -0700",
+      "Completed It\u0027s the End of the World As We Know It": "2020-03-23 12:02:25 -0700",
       "Completed Bonsai!!!": "2020-03-20 16:54:43 -0700",
       "Completed This Little Piggy": "2020-03-22 16:40:16 -0700",
       "Completed Condensed Milk": "2020-03-22 17:09:05 -0700"
