@@ -311,6 +311,7 @@
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:53:42 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:21 -0700",
+      "Completed An Enchanting Evening": "2020-03-23 15:25:53 -0700",
       "Completed Paxel Rose": "2020-03-22 16:23:38 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:23:07 -0700"
     },
@@ -928,10 +929,17 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/enchantmenttable": {
+    "criteria": {
+      "Obtain Enchantment Table": "2020-03-23 15:25:53 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/complete": {
     "criteria": {
       "Completed Age of Enhancement": "2020-03-20 15:53:42 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:21 -0700",
+      "Completed An Enchanting Evening": "2020-03-23 15:25:53 -0700",
       "Completed Paxel Rose": "2020-03-22 16:23:38 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:23:07 -0700"
