@@ -1,4 +1,10 @@
 {
+  "sf4:age_storage/compactstoragebackpack": {
+    "criteria": {
+      "Obtain Compact Storage Backpack": "2020-03-23 16:25:02 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/cottonwood": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -110,6 +116,12 @@
     },
     "done": false
   },
+  "sf4:age_enhancement/stenciltable": {
+    "criteria": {
+      "Obtain Tinkers\u0027 Stencil Table": "2020-03-23 17:18:39 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
@@ -124,6 +136,7 @@
       "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
       "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
+      "Completed Baby Got Backpack": "2020-03-23 16:25:02 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
@@ -160,6 +173,18 @@
   "sf4:age_enhancement/melter": {
     "criteria": {
       "Obtain Porcelain Melter": "2020-03-22 14:23:15 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/cast": {
+    "criteria": {
+      "Obtain Metal Pickaxe Head Cast": "2020-03-23 17:26:49 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/weirdinggadget": {
+    "criteria": {
+      "Obtain Weirding Gadget": "2020-03-23 18:58:29 -0700"
     },
     "done": true
   },
@@ -213,6 +238,7 @@
       "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
       "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
+      "Completed Baby Got Backpack": "2020-03-23 16:25:02 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
@@ -308,12 +334,22 @@
   },
   "sf4:age_enhancement/completenoprestige": {
     "criteria": {
+      "Completed Weirdly Mesmerizing": "2020-03-23 18:58:29 -0700",
+      "Completed Rolling into the Station": "2020-03-23 17:19:56 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
+      "Completed Forging Ahead": "2020-03-23 18:11:10 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:52:35 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:15 -0700",
+      "Completed An Enchanting Evening": "2020-03-23 15:50:49 -0700",
+      "Completed Suit Up": "2020-03-23 18:17:58 -0700",
       "Completed It\u0027s Over 20!": "2020-03-23 10:59:48 -0700",
+      "Completed Sign My Cast": "2020-03-23 17:26:49 -0700",
       "Completed Paxel Rose": "2020-03-20 16:55:31 -0700",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700"
+      "Completed Pattern Me, Sir": "2020-03-23 17:21:17 -0700",
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700",
+      "Completed Up in Arms": "2020-03-23 18:11:08 -0700",
+      "Completed Keep It Between the Lines": "2020-03-23 17:18:39 -0700",
+      "Completed Better With Mods": "2020-03-23 17:34:24 -0700"
     },
     "done": false
   },
@@ -392,6 +428,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/armorforge": {
+    "criteria": {
+      "Obtain Armor Forge": "2020-03-23 18:17:58 -0700"
+    },
+    "done": true
+  },
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
@@ -432,6 +474,12 @@
     },
     "done": false
   },
+  "sf4:age_enhancement/patternchest": {
+    "criteria": {
+      "Obtain Pattern Chest": "2020-03-23 17:21:17 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sleep": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -464,6 +512,12 @@
     "criteria": {
       "Enderman Seed": "2020-03-23 11:24:51 -0700",
       "Cow Seed": "2020-03-21 20:53:40 -0700"
+    },
+    "done": false
+  },
+  "compactmachines:test/7x7x72": {
+    "criteria": {
+      "Obtain Eye of Ender": "2020-03-23 18:58:04 -0700"
     },
     "done": false
   },
@@ -756,6 +810,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/toolstation": {
+    "criteria": {
+      "Obtain Tool Station": "2020-03-23 17:19:56 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/amber/lead": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -912,6 +972,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/armorstation": {
+    "criteria": {
+      "Obtain Armor Station": "2020-03-23 18:11:08 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/simplestoragecable": {
     "criteria": {
       "Obtain Network Cable": "2020-03-22 21:34:32 -0700"
@@ -932,14 +998,30 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/enchantmenttable": {
+    "criteria": {
+      "Obtain Enchantment Table": "2020-03-23 15:50:49 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/complete": {
     "criteria": {
+      "Completed Weirdly Mesmerizing": "2020-03-23 18:58:29 -0700",
+      "Completed Rolling into the Station": "2020-03-23 17:19:56 -0700",
+      "Completed Forging Ahead": "2020-03-23 18:11:10 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:52:35 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:15 -0700",
+      "Completed An Enchanting Evening": "2020-03-23 15:50:49 -0700",
+      "Completed Suit Up": "2020-03-23 18:17:58 -0700",
       "Completed It\u0027s Over 20!": "2020-03-23 10:59:48 -0700",
+      "Completed Sign My Cast": "2020-03-23 17:26:49 -0700",
       "Completed Paxel Rose": "2020-03-20 16:55:31 -0700",
+      "Completed Pattern Me, Sir": "2020-03-23 17:21:17 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700"
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:22:58 -0700",
+      "Completed Up in Arms": "2020-03-23 18:11:08 -0700",
+      "Completed Keep It Between the Lines": "2020-03-23 17:18:39 -0700",
+      "Completed Better With Mods": "2020-03-23 17:34:24 -0700"
     },
     "done": false
   },
@@ -952,6 +1034,12 @@
   "sf4:age_enhancement/20damage": {
     "criteria": {
       "Deal 20 or More Damage": "2020-03-23 10:59:48 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/tconmodifier": {
+    "criteria": {
+      "Apply 1 Modifer": "2020-03-23 17:34:24 -0700"
     },
     "done": true
   },
@@ -1021,6 +1109,15 @@
       "Placed Snad": "2020-03-22 15:03:07 -0700"
     },
     "done": true
+  },
+  "sf4:age_allthethingsomglol/modifiermaster": {
+    "criteria": {
+      "Diamond": "2020-03-23 17:34:24 -0700",
+      "Sharpness": "2020-03-23 18:43:51 -0700",
+      "Luck": "2020-03-23 18:43:51 -0700",
+      "Reinforced": "2020-03-23 20:04:07 -0700"
+    },
+    "done": false
   },
   "sf4:age1/twerk": {
     "criteria": {
@@ -1183,6 +1280,12 @@
       "Completed Condensed Milk": "2020-03-22 17:09:05 -0700"
     },
     "done": false
+  },
+  "sf4:age_enhancement/toolforge": {
+    "criteria": {
+      "Obtain Tool Forge": "2020-03-23 18:11:10 -0700"
+    },
+    "done": true
   },
   "sf4:age_allthethingsomglol/root": {
     "criteria": {
