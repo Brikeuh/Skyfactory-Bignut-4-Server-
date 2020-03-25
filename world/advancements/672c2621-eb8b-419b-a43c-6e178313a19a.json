@@ -185,6 +185,12 @@
     },
     "done": false
   },
+  "sf4:age_power/energizedsmelter": {
+    "criteria": {
+      "Obtain Energized Smelter": "2020-03-25 15:59:50 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/bdsandmmetalcrate": {
     "criteria": {
       "Obtain Metal Crate": "2020-03-23 11:23:58 -0700"
@@ -417,12 +423,16 @@
       "Completed Bring Me to Life": "2020-03-24 09:54:25 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:13:05 -0700",
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
+      "Completed Ctrl-Z": "2020-03-25 16:53:39 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:05 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
       "Completed Max Power": "2020-03-25 12:25:30 -0700",
+      "Completed Config-a-ma-whatzit": "2020-03-25 16:06:38 -0700",
+      "Completed Gotta Smelt Fast": "2020-03-25 15:59:50 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:06 -0700",
       "Completed Clicker Hero": "2020-03-24 11:36:03 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:05:25 -0700",
+      "Completed Made for Each Other": "2020-03-25 16:39:04 -0700",
       "Completed Age of Power": "2020-03-20 15:52:35 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:02 -0700",
       "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:56 -0700",
@@ -434,6 +444,7 @@
       "Completed Package Control": "2020-03-25 12:02:07 -0700",
       "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
+      "Completed Extraction, Extraction, Read All About It!": "2020-03-25 15:55:51 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
@@ -648,6 +659,18 @@
       "Placed Dirt Sapling": "2020-03-20 16:13:14 -0700"
     },
     "done": false
+  },
+  "sf4:age_power/uncraftinggrinder": {
+    "criteria": {
+      "Obtain Uncrafting Grinder": "2020-03-25 16:53:39 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/extractionchamber": {
+    "criteria": {
+      "Obtain Loot Fabricator": "2020-03-25 15:55:51 -0700"
+    },
+    "done": true
   },
   "tutorial:tutorial/dirtsapling": {
     "criteria": {
@@ -879,6 +902,12 @@
   "sf4:age_power/zombiedatamodel": {
     "criteria": {
       "Obtain Zombie Data Model": "2020-03-24 09:54:25 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/configurator": {
+    "criteria": {
+      "Obtain Configurator": "2020-03-25 16:06:38 -0700"
     },
     "done": true
   },
@@ -1487,6 +1516,12 @@
     },
     "done": false
   },
+  "sf4:age_power/alloyfurnace": {
+    "criteria": {
+      "Obtain Alloy Furnace": "2020-03-25 16:39:04 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/alloytank": {
     "criteria": {
       "Obtain Porcelain Alloying Tank": "2020-03-24 14:18:44 -0700"
@@ -1818,12 +1853,16 @@
       "Completed Bring Me to Life": "2020-03-24 09:54:25 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:13:05 -0700",
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
+      "Completed Ctrl-Z": "2020-03-25 16:53:39 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:05 -0700",
       "Completed Max Power": "2020-03-25 12:25:30 -0700",
+      "Completed Config-a-ma-whatzit": "2020-03-25 16:06:38 -0700",
+      "Completed Gotta Smelt Fast": "2020-03-25 15:59:50 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:06 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed Clicker Hero": "2020-03-24 11:36:03 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:05:25 -0700",
+      "Completed Made for Each Other": "2020-03-25 16:39:04 -0700",
       "Completed Age of Power": "2020-03-20 15:52:35 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:02 -0700",
       "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:56 -0700",
@@ -1835,6 +1874,7 @@
       "Completed Package Control": "2020-03-25 12:02:07 -0700",
       "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
+      "Completed Extraction, Extraction, Read All About It!": "2020-03-25 15:55:51 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
