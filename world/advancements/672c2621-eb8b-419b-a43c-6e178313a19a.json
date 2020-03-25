@@ -574,6 +574,12 @@
     },
     "done": false
   },
+  "sf4:age_storage/simplestoragecontroller": {
+    "criteria": {
+      "Obtain Processing Controller": "2020-03-25 00:42:21 -0700"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/crushingtub": {
     "criteria": {
       "Obtain Crushing Tub": "2020-03-20 16:59:12 -0700"
@@ -886,6 +892,7 @@
       "Completed Baby Got Backpack": "2020-03-23 16:25:02 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
+      "Completed Control Yourself": "2020-03-25 00:42:21 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
     },
     "done": false
@@ -958,6 +965,7 @@
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
+      "Completed Control Yourself": "2020-03-25 00:42:21 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
     },
     "done": false
