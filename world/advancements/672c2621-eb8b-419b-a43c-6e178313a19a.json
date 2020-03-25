@@ -82,6 +82,18 @@
     },
     "done": true
   },
+  "sf4:age_power/powercelllow": {
+    "criteria": {
+      "Obtain Low Powercell": "2020-03-25 12:25:30 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/logicpress": {
+    "criteria": {
+      "Obtain Logic Press": "2020-03-25 10:20:09 -0700"
+    },
+    "done": true
+  },
   "sf4:age_power/upgradeablegenerators": {
     "criteria": {
       "Obtain Simple Upgradable Geothermal Generator": "2020-03-24 22:20:50 -0700"
@@ -100,10 +112,40 @@
     },
     "done": true
   },
+  "sf4:age_storage/bdsandmupgrade1": {
+    "criteria": {
+      "Obtain x64 Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/redstone": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
       "Obtain Redstone Sapling": "2020-03-22 14:47:17 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmupgrade3": {
+    "criteria": {
+      "Obtain x1k Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmupgrade2": {
+    "criteria": {
+      "Obtain x256 Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmupgrade5": {
+    "criteria": {
+      "Obtain Ore Dictionary Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmupgrade4": {
+    "criteria": {
+      "Obtain x4k Storage Upgrade": "2020-03-25 08:57:23 -0700"
     },
     "done": true
   },
@@ -118,6 +160,12 @@
       "Reinforced": "2020-03-24 13:07:32 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/bdsandmupgrade6": {
+    "criteria": {
+      "Obtain Void Overflow Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
   },
   "sf4:age_enhancement/cast": {
     "criteria": {
@@ -274,6 +322,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/siliconpress": {
+    "criteria": {
+      "Obtain Silicon Press": "2020-03-25 10:20:50 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/mobswab": {
     "criteria": {
       "Obtain Mob DNA": "2020-03-24 09:48:31 -0700"
@@ -365,18 +419,26 @@
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:05 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
+      "Completed Max Power": "2020-03-25 12:25:30 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:06 -0700",
       "Completed Clicker Hero": "2020-03-24 11:36:03 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:05:25 -0700",
       "Completed Age of Power": "2020-03-20 15:52:35 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:02 -0700",
+      "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:56 -0700",
+      "Completed B-Aiken be Aiken": "2020-03-25 12:16:59 -0700",
       "Completed Down the Rabbit Hole": "2020-03-24 09:51:04 -0700",
       "Completed Need iiii Speed": "2020-03-24 22:20:57 -0700",
+      "Completed Get Informed!": "2020-03-25 12:30:23 -0700",
       "Completed Charger 2: Electric Boogaloo": "2020-03-24 22:05:30 -0700",
+      "Completed Package Control": "2020-03-25 12:02:07 -0700",
+      "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
+      "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
-      "Completed The Study Guide": "2020-03-24 09:54:14 -0700"
+      "Completed The Study Guide": "2020-03-24 09:54:14 -0700",
+      "Completed Oops I Did It Again": "2020-03-25 10:17:16 -0700"
     },
     "done": false
   },
@@ -419,6 +481,12 @@
     },
     "done": true
   },
+  "sf4:age_power/powercellmedium": {
+    "criteria": {
+      "Obtain Medium Powercell": "2020-03-25 12:25:31 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/bdsandmshippingcontainer": {
     "criteria": {
       "Obtain Shipping Container": "2020-03-23 11:32:14 -0700"
@@ -435,6 +503,12 @@
     "criteria": {
       "Obtain Dirt Acorn": "2020-03-20 16:08:02 -0700",
       "Completed Root": "2020-03-20 15:52:35 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/powercellhigh": {
+    "criteria": {
+      "Obtain High Powercell": "2020-03-25 12:30:22 -0700"
     },
     "done": true
   },
@@ -491,10 +565,17 @@
   },
   "sf4:age_exploration/complete": {
     "criteria": {
+      "Completed You\u0027re Boron Me": "2020-03-25 11:09:13 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
+      "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
+      "Completed Lost and Found": "2020-03-25 10:47:24 -0700",
+      "Completed Where\u0027s the Boss?": "2020-03-25 10:42:33 -0700",
+      "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:40 -0700",
       "Completed Nether Here Nor There": "2020-03-22 21:11:06 -0700",
-      "Completed Age of Exploration": "2020-03-20 15:52:35 -0700"
+      "Completed Floaty McFloaty": "2020-03-25 09:04:25 -0700",
+      "Completed Age of Exploration": "2020-03-20 15:52:35 -0700",
+      "Completed Light up Your Night": "2020-03-25 11:09:31 -0700"
     },
     "done": false
   },
@@ -703,6 +784,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/drivebay": {
+    "criteria": {
+      "Obtain Drive Bay": "2020-03-25 11:41:12 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/twerk": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -716,6 +803,12 @@
       "Obtain Diamond Sapling": "2020-03-22 15:24:13 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/fluixcrystal": {
+    "criteria": {
+      "Obtain Fluix Crystal": "2020-03-25 09:07:11 -0700"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/string": {
     "criteria": {
@@ -745,9 +838,10 @@
   },
   "sf4:age_exploration/dragonkill": {
     "criteria": {
-      "Enter Custom End Dimension": "2020-03-22 21:11:06 -0700"
+      "Enter Custom End Dimension": "2020-03-22 21:11:06 -0700",
+      "Enter End Dimension": "2020-03-25 10:42:33 -0700"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_farming/complete": {
     "criteria": {
@@ -829,6 +923,12 @@
     },
     "done": true
   },
+  "sf4:age_power/informationscreen": {
+    "criteria": {
+      "Obtain Information Screen": "2020-03-25 12:30:23 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/cottonwood": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -841,6 +941,12 @@
       "Obtain Green Slime Dirt": "2020-03-22 15:04:30 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/uninstallupgrade": {
+    "criteria": {
+      "Obtain x64 Storage Upgrade": "2020-03-25 08:57:23 -0700"
+    },
+    "done": true
   },
   "sf4:age_exploration/cobaltore": {
     "criteria": {
@@ -877,25 +983,43 @@
   },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
+      "Completed Under Pressure": "2020-03-25 11:23:43 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
       "Completed Wood You Hand Me That Crate Please?": "2020-03-23 11:18:48 -0700",
       "Completed I WANT IT NOW!": "2020-03-22 21:35:37 -0700",
       "Completed Wares the Remote?": "2020-03-22 22:01:03 -0700",
+      "Completed Live Long and Processor": "2020-03-25 10:25:49 -0700",
       "Completed Whopper!": "2020-03-22 14:25:04 -0700",
+      "Completed Accepting Your True Power": "2020-03-25 10:06:28 -0700",
       "Completed ɹǝddoH": "2020-03-22 16:26:21 -0700",
+      "Completed Bay Bay You Can Drive My Car": "2020-03-25 11:41:12 -0700",
+      "Completed Ore You Kidding": "2020-03-25 08:57:23 -0700",
+      "Completed Drumtendo 64": "2020-03-25 08:57:23 -0700",
       "Completed CAT 5": "2020-03-22 21:34:32 -0700",
       "Completed It Fits, We Ship": "2020-03-23 11:32:14 -0700",
+      "Completed Pocket Book": "2020-03-25 11:41:13 -0700",
+      "Completed Windows ME": "2020-03-25 11:33:12 -0700",
       "Completed Master Blaster": "2020-03-22 21:35:39 -0700",
+      "Completed 256 Liters of Cola": "2020-03-25 08:57:23 -0700",
       "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
       "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
       "Completed Baby Got Backpack": "2020-03-23 16:25:02 -0700",
+      "Completed MhyCell": "2020-03-25 09:41:30 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
+      "Completed Better Than 1080p": "2020-03-25 08:57:23 -0700",
+      "Completed Silicon Valley": "2020-03-25 10:20:50 -0700",
       "Completed Control Yourself": "2020-03-25 00:42:21 -0700",
-      "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
+      "Completed Void Ze Stuff": "2020-03-25 08:57:23 -0700",
+      "Completed Breaking Bad": "2020-03-25 09:07:11 -0700",
+      "Completed Java Overflow": "2020-03-25 08:57:23 -0700",
+      "Completed Neeeeeeeeerrrrrrrd!": "2020-03-25 11:30:13 -0700",
+      "Completed That is Illogical": "2020-03-25 10:20:09 -0700",
+      "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700",
+      "Completed Be Kind. Rewind.": "2020-03-25 08:57:23 -0700"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/petrified": {
     "criteria": {
@@ -920,6 +1044,18 @@
   "sf4:age_enhancement/melter": {
     "criteria": {
       "Obtain Porcelain Melter": "2020-03-22 14:23:15 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/lostcities": {
+    "criteria": {
+      "Entered Lost Cities Dimension": "2020-03-25 10:47:24 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/tritaniumore": {
+    "criteria": {
+      "Obtain Ice Tritanium Ore": "2020-03-25 10:54:40 -0700"
     },
     "done": true
   },
@@ -950,25 +1086,43 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
+      "Completed Under Pressure": "2020-03-25 11:23:43 -0700",
       "Completed Wood You Hand Me That Crate Please?": "2020-03-23 11:18:48 -0700",
       "Completed I WANT IT NOW!": "2020-03-22 21:35:37 -0700",
       "Completed Wares the Remote?": "2020-03-22 22:01:03 -0700",
+      "Completed Live Long and Processor": "2020-03-25 10:25:49 -0700",
       "Completed Whopper!": "2020-03-22 14:25:04 -0700",
+      "Completed Accepting Your True Power": "2020-03-25 10:06:28 -0700",
       "Completed ɹǝddoH": "2020-03-22 16:26:21 -0700",
+      "Completed Bay Bay You Can Drive My Car": "2020-03-25 11:41:12 -0700",
+      "Completed Ore You Kidding": "2020-03-25 08:57:23 -0700",
+      "Completed Drumtendo 64": "2020-03-25 08:57:23 -0700",
       "Completed CAT 5": "2020-03-22 21:34:32 -0700",
       "Completed It Fits, We Ship": "2020-03-23 11:32:14 -0700",
+      "Completed Pocket Book": "2020-03-25 11:41:13 -0700",
+      "Completed Windows ME": "2020-03-25 11:33:12 -0700",
       "Completed Master Blaster": "2020-03-22 21:35:39 -0700",
+      "Completed 256 Liters of Cola": "2020-03-25 08:57:23 -0700",
       "Completed Roll Out the Barrel": "2020-03-23 11:23:56 -0700",
       "Completed Age of Storage": "2020-03-20 15:52:35 -0700",
       "Completed Metallicrate": "2020-03-23 11:23:58 -0700",
       "Completed Baby Got Backpack": "2020-03-23 16:25:02 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
+      "Completed MhyCell": "2020-03-25 09:41:30 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-22 21:39:41 -0700",
       "Completed Hop to It": "2020-03-22 16:14:06 -0700",
+      "Completed Better Than 1080p": "2020-03-25 08:57:23 -0700",
+      "Completed Silicon Valley": "2020-03-25 10:20:50 -0700",
       "Completed Control Yourself": "2020-03-25 00:42:21 -0700",
-      "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700"
+      "Completed Void Ze Stuff": "2020-03-25 08:57:23 -0700",
+      "Completed Breaking Bad": "2020-03-25 09:07:11 -0700",
+      "Completed Java Overflow": "2020-03-25 08:57:23 -0700",
+      "Completed Neeeeeeeeerrrrrrrd!": "2020-03-25 11:30:13 -0700",
+      "Completed That is Illogical": "2020-03-25 10:20:09 -0700",
+      "Completed What Woodent You Store?": "2020-03-22 18:26:11 -0700",
+      "Completed Be Kind. Rewind.": "2020-03-25 08:57:23 -0700"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/craftingstation": {
     "criteria": {
@@ -1000,11 +1154,23 @@
     },
     "done": false
   },
+  "sf4:age_power/autopackager": {
+    "criteria": {
+      "Obtain Auto Packager": "2020-03-25 12:02:07 -0700"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/petrifiedsapling": {
     "criteria": {
       "Obtain Petrified Sapling": "2020-03-20 16:32:28 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/energyacceptor": {
+    "criteria": {
+      "Obtain Energy Acceptor": "2020-03-25 10:06:28 -0700"
+    },
+    "done": true
   },
   "sf4:age_allthethingsomglol/nuclearcraftenergyupgrade": {
     "criteria": {
@@ -1015,6 +1181,12 @@
   "sf4:age_storage/upper": {
     "criteria": {
       "Obtain Upper": "2020-03-22 16:26:21 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/magnesiumore": {
+    "criteria": {
+      "Obtain Magnesium Ore": "2020-03-25 11:09:31 -0700"
     },
     "done": true
   },
@@ -1089,10 +1261,17 @@
   },
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
+      "Completed You\u0027re Boron Me": "2020-03-25 11:09:13 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
+      "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
+      "Completed Lost and Found": "2020-03-25 10:47:24 -0700",
+      "Completed Where\u0027s the Boss?": "2020-03-25 10:42:33 -0700",
+      "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:40 -0700",
       "Completed Nether Here Nor There": "2020-03-22 21:11:06 -0700",
-      "Completed Age of Exploration": "2020-03-20 15:52:35 -0700"
+      "Completed Floaty McFloaty": "2020-03-25 09:04:25 -0700",
+      "Completed Age of Exploration": "2020-03-20 15:52:35 -0700",
+      "Completed Light up Your Night": "2020-03-25 11:09:31 -0700"
     },
     "done": false
   },
@@ -1139,10 +1318,22 @@
     },
     "done": true
   },
+  "sf4:age_storage/ae2energycell": {
+    "criteria": {
+      "Obtain AE2 Energy Cell": "2020-03-25 09:41:30 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/lead": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
       "Obtain Lead Sapling": "2020-03-22 15:09:01 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/lostcitiesworld": {
+    "criteria": {
+      "Entered Lost Cities Dimension": "2020-03-25 10:47:22 -0700"
     },
     "done": true
   },
@@ -1159,6 +1350,18 @@
       "Completed SkyFactory 4": "2020-03-20 15:52:35 -0700"
     },
     "done": false
+  },
+  "sf4:age_power/treadmill": {
+    "criteria": {
+      "Obtain Pig Treadmill": "2020-03-25 12:16:59 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/boronore": {
+    "criteria": {
+      "Obtain Boron Ore": "2020-03-25 11:09:13 -0700"
+    },
+    "done": true
   },
   "sf4:age_farming/animalseeds": {
     "criteria": {
@@ -1205,6 +1408,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/1kstoragecell": {
+    "criteria": {
+      "Obtain 1K Storage Cell": "2020-03-25 11:41:13 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/gravel": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -1244,6 +1453,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/calculationpress": {
+    "criteria": {
+      "Obtain Calculation Press": "2020-03-25 11:30:13 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/lumberaxe": {
     "criteria": {
       "Obtain Tinkers\u0027 Lumber Axe": "2020-03-24 13:58:28 -0700"
@@ -1278,10 +1493,22 @@
     },
     "done": true
   },
+  "sf4:age_power/dehydrator": {
+    "criteria": {
+      "Obtain Dehydrator": "2020-03-25 12:10:56 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/iron_ingot": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
       "Obtain Iron Ingot": "2020-03-22 15:00:39 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/exchangertool": {
+    "criteria": {
+      "Obtain Exchanger Tool": "2020-03-25 10:17:16 -0700"
     },
     "done": true
   },
@@ -1310,9 +1537,21 @@
     },
     "done": true
   },
+  "sf4:age_storage/engineeringpress": {
+    "criteria": {
+      "Obtain Engineering Press": "2020-03-25 11:23:43 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/heartcontainer": {
     "criteria": {
       "Eat Cyclic Heart Container": "2020-03-24 16:16:06 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_storage/logicprocessor": {
+    "criteria": {
+      "Obtain Logic Processor": "2020-03-25 10:25:49 -0700"
     },
     "done": true
   },
@@ -1366,9 +1605,21 @@
     },
     "done": false
   },
+  "sf4:age_exploration/floaty": {
+    "criteria": {
+      "Obtain Floaty McFloaty Block": "2020-03-25 09:04:25 -0700"
+    },
+    "done": true
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration": "2020-03-20 15:52:35 -0700"
+    },
+    "done": false
+  },
+  "compactmachines:test/11x11x11": {
+    "criteria": {
+      "Obtain Nether Star": "2020-03-25 11:59:15 -0700"
     },
     "done": false
   },
@@ -1437,6 +1688,12 @@
       "Completed Hot Pockets": "2020-03-24 15:49:38 -0700",
       "Completed Power Save Mode": "2020-03-24 21:21:02 -0700",
       "Completed Better With Mods": "2020-03-23 17:34:24 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/lithiumore": {
+    "criteria": {
+      "Obtain Lithium Ore": "2020-03-25 10:56:32 -0700"
     },
     "done": true
   },
@@ -1538,6 +1795,7 @@
       "Sharpness": "2020-03-23 18:43:51 -0700",
       "Haste": "2020-03-24 14:51:21 -0700",
       "Luck": "2020-03-23 18:43:51 -0700",
+      "Beheading": "2020-03-25 12:09:44 -0700",
       "Reinforced": "2020-03-23 20:04:07 -0700"
     },
     "done": false
@@ -1561,19 +1819,27 @@
       "Completed The Truth is Out There": "2020-03-24 12:13:05 -0700",
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:05 -0700",
+      "Completed Max Power": "2020-03-25 12:25:30 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:06 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed Clicker Hero": "2020-03-24 11:36:03 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:05:25 -0700",
       "Completed Age of Power": "2020-03-20 15:52:35 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:02 -0700",
+      "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:56 -0700",
+      "Completed B-Aiken be Aiken": "2020-03-25 12:16:59 -0700",
       "Completed Down the Rabbit Hole": "2020-03-24 09:51:04 -0700",
       "Completed Need iiii Speed": "2020-03-24 22:20:57 -0700",
+      "Completed Get Informed!": "2020-03-25 12:30:23 -0700",
       "Completed Charger 2: Electric Boogaloo": "2020-03-24 22:05:30 -0700",
+      "Completed Package Control": "2020-03-25 12:02:07 -0700",
+      "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
+      "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
-      "Completed The Study Guide": "2020-03-24 09:54:14 -0700"
+      "Completed The Study Guide": "2020-03-24 09:54:14 -0700",
+      "Completed Oops I Did It Again": "2020-03-25 10:17:16 -0700"
     },
     "done": false
   },
@@ -1600,6 +1866,12 @@
       "Get killed": "2020-03-24 15:36:39 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/meterminal": {
+    "criteria": {
+      "Obtain ME Terminal": "2020-03-25 11:33:12 -0700"
+    },
+    "done": true
   },
   "compactmachines:test/5x5x52": {
     "criteria": {
