@@ -82,6 +82,24 @@
     },
     "done": true
   },
+  "sf4:age_power/upgradeablegenerators": {
+    "criteria": {
+      "Obtain Simple Upgradable Geothermal Generator": "2020-03-24 22:21:10 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/energyupgrade": {
+    "criteria": {
+      "Obtain Mekanism Energy Upgrade": "2020-03-24 21:20:49 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/wirelesscharger": {
+    "criteria": {
+      "Obtain Wireless Charger": "2020-03-24 22:06:36 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/redstone": {
     "criteria": {
       "Completed Root": "2020-03-20 15:53:42 -0700",
@@ -205,10 +223,12 @@
       "Completed Rolling into the Station": "2020-03-23 17:19:40 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
       "Completed Forging Ahead": "2020-03-23 18:09:55 -0700",
+      "Completed Shhhhhhh!": "2020-03-24 21:23:18 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:53:42 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:21 -0700",
       "Completed An Enchanting Evening": "2020-03-23 15:25:53 -0700",
       "Completed I\u0027ll Be Your Alloy": "2020-03-24 14:18:56 -0700",
+      "Completed Gotta Go Fast": "2020-03-24 21:17:25 -0700",
       "Completed Suit Up": "2020-03-23 18:13:15 -0700",
       "Completed Axe Me Anything": "2020-03-24 13:58:12 -0700",
       "Completed It\u0027s Over 20!": "2020-03-23 20:03:48 -0700",
@@ -217,6 +237,7 @@
       "Completed Pattern Me, Sir": "2020-03-23 17:21:07 -0700",
       "Completed Storage Wars": "2020-03-24 16:32:41 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:23:07 -0700",
+      "Completed Overworked and Underpaid": "2020-03-24 21:18:32 -0700",
       "Completed Getting Warmer": "2020-03-24 14:43:33 -0700",
       "Completed Up in Arms": "2020-03-23 18:10:55 -0700",
       "Completed Tim the Tool Man Taylor": "2020-03-23 17:19:20 -0700",
@@ -228,9 +249,10 @@
       "Completed Yo-Yo Ma": "2020-03-24 13:59:36 -0700",
       "Completed Armor 404": "2020-03-24 13:56:44 -0700",
       "Completed Hot Pockets": "2020-03-24 15:48:45 -0700",
+      "Completed Power Save Mode": "2020-03-24 21:20:49 -0700",
       "Completed Better With Mods": "2020-03-23 17:33:40 -0700"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/copied/goldsapling": {
     "criteria": {
@@ -334,16 +356,29 @@
     },
     "done": false
   },
+  "sf4:age_farming/fertilesoil": {
+    "criteria": {
+      "Obtain Fertile Soil": "2020-03-24 22:43:52 -0700"
+    },
+    "done": true
+  },
   "sf4:age_power/completenoprestige": {
     "criteria": {
+      "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:29 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:30 -0700",
       "Completed Clicker Hero": "2020-03-24 11:35:40 -0700",
+      "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:06:03 -0700",
       "Completed Age of Power": "2020-03-20 15:53:42 -0700",
+      "Completed Go, Go, Building Gadget": "2020-03-24 22:24:30 -0700",
       "Completed Down the Rabbit Hole": "2020-03-24 09:52:57 -0700",
+      "Completed Need iiii Speed": "2020-03-24 22:21:11 -0700",
+      "Completed Charger 2: Electric Boogaloo": "2020-03-24 22:06:04 -0700",
+      "Completed No Chargebacks": "2020-03-24 22:06:11 -0700",
+      "Completed Level Up!": "2020-03-24 22:21:10 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:36 -0700",
       "Completed The Study Guide": "2020-03-24 10:05:33 -0700"
     },
@@ -416,6 +451,7 @@
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:17 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:53:42 -0700"
     },
     "done": false
@@ -505,6 +541,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/mufflingupgrade": {
+    "criteria": {
+      "Obtain Mekanism Muffling Upgrade": "2020-03-24 21:23:18 -0700"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/toolstation": {
     "criteria": {
       "Obtain Tool Station": "2020-03-23 17:19:40 -0700"
@@ -515,6 +557,12 @@
     "criteria": {
       "Completed Root": "2020-03-20 15:53:42 -0700",
       "Obtain Lead Amber": "2020-03-22 15:37:58 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_farming/brownmulch": {
+    "criteria": {
+      "Obtain Brown Mulch": "2020-03-24 22:46:38 -0700"
     },
     "done": true
   },
@@ -529,6 +577,12 @@
       "Obtain a Dirt Sapling": "2020-03-20 16:08:13 -0700"
     },
     "done": false
+  },
+  "sf4:age_storage/simplestoragecontroller": {
+    "criteria": {
+      "Obtain Processing Controller": "2020-03-24 22:48:29 -0700"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/water": {
     "criteria": {
@@ -712,8 +766,10 @@
       "Completed Bonsai!!!": "2020-03-20 16:56:19 -0700",
       "Completed This Little Piggy": "2020-03-22 16:40:05 -0700",
       "Completed Condensed Milk": "2020-03-22 17:08:18 -0700",
+      "Completed Nothing Really Mattocks": "2020-03-24 21:41:21 -0700",
       "Completed Beanboozled": "2020-03-24 10:09:38 -0700",
-      "Completed Diagon Alley": "2020-03-20 18:48:14 -0700"
+      "Completed Diagon Alley": "2020-03-20 18:48:14 -0700",
+      "Completed Animals Croppings": "2020-03-24 22:33:08 -0700"
     },
     "done": false
   },
@@ -747,6 +803,7 @@
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:17 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:53:42 -0700"
     },
     "done": false
@@ -760,6 +817,12 @@
   "sf4:age_enhancement/toolforge": {
     "criteria": {
       "Obtain Tool Forge": "2020-03-23 18:09:55 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/buildinggadget": {
+    "criteria": {
+      "Obtain Building Gadget": "2020-03-24 22:24:30 -0700"
     },
     "done": true
   },
@@ -826,6 +889,7 @@
       "Completed Baby Got Backpack": "2020-03-23 16:24:54 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-23 09:52:26 -0700",
       "Completed Hop to It": "2020-03-22 16:13:49 -0700",
+      "Completed Control Yourself": "2020-03-24 22:48:29 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:25:49 -0700"
     },
     "done": false
@@ -863,6 +927,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/nuclearcraftspeedupgrade": {
+    "criteria": {
+      "Obtain Nuclearcraft Speed Upgrade": "2020-03-24 21:18:32 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/bonsai": {
     "criteria": {
       "Obtain Bonsai Pot": "2020-03-20 16:56:19 -0700"
@@ -892,6 +962,7 @@
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed I Like Big Box and I Cannot Lie": "2020-03-23 09:52:26 -0700",
       "Completed Hop to It": "2020-03-22 16:13:49 -0700",
+      "Completed Control Yourself": "2020-03-24 22:48:29 -0700",
       "Completed What Woodent You Store?": "2020-03-22 18:25:49 -0700"
     },
     "done": false
@@ -931,6 +1002,12 @@
       "Obtain Petrified Sapling": "2020-03-20 16:33:26 -0700"
     },
     "done": false
+  },
+  "sf4:age_allthethingsomglol/nuclearcraftenergyupgrade": {
+    "criteria": {
+      "Obtain Nuclearcraft Energy Upgrade": "2020-03-24 21:39:17 -0700"
+    },
+    "done": true
   },
   "sf4:age_storage/upper": {
     "criteria": {
@@ -1082,14 +1159,36 @@
   },
   "sf4:age_farming/animalseeds": {
     "criteria": {
+      "Parrot Seed": "2020-03-24 22:00:50 -0700",
       "Wolf Seed": "2020-03-22 17:21:15 -0700",
+      "Donkey Seed": "2020-03-24 22:01:04 -0700",
+      "Mini Ghast Seed": "2020-03-24 22:18:51 -0700",
+      "Adelie Penguin Seed": "2020-03-24 22:07:46 -0700",
+      "Sheep Seed": "2020-03-24 22:07:56 -0700",
+      "Skeleton Seed": "2020-03-24 22:19:34 -0700",
+      "Llama Seed": "2020-03-24 22:08:39 -0700",
+      "Mooshroom Seed": "2020-03-24 22:08:52 -0700",
+      "Witch Seed": "2020-03-24 22:19:54 -0700",
+      "Squid Lily": "2020-03-24 22:22:49 -0700",
+      "Magma Cube Seed": "2020-03-24 22:23:05 -0700",
+      "Blaze Seed": "2020-03-24 22:26:41 -0700",
+      "Enderman Seed": "2020-03-24 22:18:20 -0700",
       "Ocelot Seed": "2020-03-22 17:21:26 -0700",
+      "Polar Bear Seed": "2020-03-24 22:09:19 -0700",
+      "Spider Seed": "2020-03-24 22:27:26 -0700",
       "Cow Seed": "2020-03-22 14:17:52 -0700",
+      "Slime Seed": "2020-03-24 22:28:35 -0700",
+      "Horse Seed": "2020-03-24 22:09:32 -0700",
+      "Guardian Lily": "2020-03-24 22:32:58 -0700",
+      "Villager Seed": "2020-03-24 22:15:53 -0700",
+      "Zombie Seed": "2020-03-24 22:00:17 -0700",
+      "Wither Skeleton Seed": "2020-03-24 22:33:03 -0700",
       "Rabbit Seed": "2020-03-24 15:53:28 -0700",
       "Chicken Seed": "2020-03-24 01:14:47 -0700",
+      "Creeper Seed": "2020-03-24 22:33:08 -0700",
       "Pig Seed": "2020-03-22 14:57:25 -0700"
     },
-    "done": false
+    "done": true
   },
   "compactmachines:test/7x7x72": {
     "criteria": {
@@ -1195,6 +1294,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/mattock": {
+    "criteria": {
+      "Obtain Mattock": "2020-03-24 21:41:21 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/amber/silver": {
     "criteria": {
       "Completed Root": "2020-03-20 15:53:42 -0700",
@@ -1230,19 +1335,24 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2020-03-20 16:08:13 -0700",
+      "Obtain Osmium Sapling": "2020-03-24 21:08:37 -0700",
       "Obtain Lead Sapling": "2020-03-22 15:09:09 -0700",
       "Obtain Silver Sapling": "2020-03-22 15:21:21 -0700",
       "Obtain Coal Sapling": "2020-03-22 14:35:17 -0700",
+      "Obtain Netherrack Sapling": "2020-03-24 21:55:35 -0700",
       "Obtain Diamond Sapling": "2020-03-22 15:24:25 -0700",
+      "Obtain Copper Sapling": "2020-03-24 20:53:59 -0700",
       "Obtain Cottonwood Sapling": "2020-03-22 14:13:46 -0700",
       "Obtain Lapis Sapling": "2020-03-22 14:52:33 -0700",
       "Obtain Bacon Sapling": "2020-03-22 15:42:18 -0700",
       "Obtain Donut Sapling": "2020-03-22 15:36:21 -0700",
+      "Obtain Glowstone Sapling": "2020-03-24 21:55:08 -0700",
       "Obtain Emerald Sapling": "2020-03-23 22:23:49 -0700",
       "Obtain Petrified Sapling": "2020-03-20 16:33:26 -0700",
       "Obtain Tin Sapling": "2020-03-22 14:33:25 -0700",
       "Obtain Nickel Sapling": "2020-03-23 22:22:21 -0700",
       "Obtain Iron Sapling": "2020-03-22 14:44:32 -0700",
+      "Obtain Cookie Sapling": "2020-03-24 21:56:09 -0700",
       "Obtain Sand Sapling": "2020-03-20 18:35:23 -0700",
       "Obtain Gold Sapling": "2020-03-22 15:14:05 -0700",
       "Obtain Redstone Sapling": "2020-03-22 14:47:33 -0700",
@@ -1258,6 +1368,12 @@
       "Completed Age of Exploration": "2020-03-20 15:53:42 -0700"
     },
     "done": false
+  },
+  "sf4:age_enhancement/speedupgrade": {
+    "criteria": {
+      "Obtain Mekanism Speed Upgrade": "2020-03-24 21:17:25 -0700"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/coalsapling": {
     "criteria": {
@@ -1289,10 +1405,12 @@
       "Completed Weirdly Mesmerizing": "2020-03-23 18:58:40 -0700",
       "Completed Rolling into the Station": "2020-03-23 17:19:40 -0700",
       "Completed Forging Ahead": "2020-03-23 18:09:55 -0700",
+      "Completed Shhhhhhh!": "2020-03-24 21:23:18 -0700",
       "Completed Age of Enhancement": "2020-03-20 15:53:42 -0700",
       "Completed To Be ORe Not to Be": "2020-03-22 14:23:21 -0700",
       "Completed An Enchanting Evening": "2020-03-23 15:25:53 -0700",
       "Completed I\u0027ll Be Your Alloy": "2020-03-24 14:18:56 -0700",
+      "Completed Gotta Go Fast": "2020-03-24 21:17:25 -0700",
       "Completed Suit Up": "2020-03-23 18:13:15 -0700",
       "Completed Axe Me Anything": "2020-03-24 13:58:12 -0700",
       "Completed It\u0027s Over 20!": "2020-03-23 20:03:48 -0700",
@@ -1302,6 +1420,7 @@
       "Completed Storage Wars": "2020-03-24 16:32:41 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana": "2020-03-22 14:23:07 -0700",
+      "Completed Overworked and Underpaid": "2020-03-24 21:18:32 -0700",
       "Completed Getting Warmer": "2020-03-24 14:43:33 -0700",
       "Completed Up in Arms": "2020-03-23 18:10:55 -0700",
       "Completed Tim the Tool Man Taylor": "2020-03-23 17:19:20 -0700",
@@ -1313,9 +1432,10 @@
       "Completed Yo-Yo Ma": "2020-03-24 13:59:36 -0700",
       "Completed Armor 404": "2020-03-24 13:56:44 -0700",
       "Completed Hot Pockets": "2020-03-24 15:48:45 -0700",
+      "Completed Power Save Mode": "2020-03-24 21:20:49 -0700",
       "Completed Better With Mods": "2020-03-23 17:33:40 -0700"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/tconmodifier": {
     "criteria": {
@@ -1369,12 +1489,30 @@
     },
     "done": true
   },
+  "sf4:age_power/charger3": {
+    "criteria": {
+      "Obtain Tier 3 Charger": "2020-03-24 22:06:11 -0700"
+    },
+    "done": true
+  },
   "pacifist:pacifist_run/peaceful": {
     "criteria": {
       "brokeLeaves": "2020-03-20 15:57:34 -0700",
       "brokeLog": "2020-03-20 16:06:31 -0700"
     },
     "done": false
+  },
+  "sf4:age_power/charger1": {
+    "criteria": {
+      "Obtain Tier 1 Charger": "2020-03-24 22:06:03 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/charger2": {
+    "criteria": {
+      "Obtain Tier 2 Charger": "2020-03-24 22:06:04 -0700"
+    },
+    "done": true
   },
   "sf4:age1/water": {
     "criteria": {
@@ -1415,14 +1553,21 @@
   },
   "sf4:age_power/complete": {
     "criteria": {
+      "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Dead Cells": "2020-03-24 10:05:29 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:30 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed Clicker Hero": "2020-03-24 11:35:40 -0700",
+      "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:06:03 -0700",
       "Completed Age of Power": "2020-03-20 15:53:42 -0700",
+      "Completed Go, Go, Building Gadget": "2020-03-24 22:24:30 -0700",
       "Completed Down the Rabbit Hole": "2020-03-24 09:52:57 -0700",
+      "Completed Need iiii Speed": "2020-03-24 22:21:11 -0700",
+      "Completed Charger 2: Electric Boogaloo": "2020-03-24 22:06:04 -0700",
+      "Completed No Chargebacks": "2020-03-24 22:06:11 -0700",
+      "Completed Level Up!": "2020-03-24 22:21:10 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:36 -0700",
       "Completed The Study Guide": "2020-03-24 10:05:33 -0700"
     },
@@ -1490,6 +1635,12 @@
     },
     "done": false
   },
+  "sf4:age_power/speedmodifier": {
+    "criteria": {
+      "Obtain Speed Modifier": "2020-03-24 22:21:11 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
       "Completed Citizen Cane": "2020-03-22 14:30:09 -0700",
@@ -1501,9 +1652,13 @@
       "Completed Age of Farming": "2020-03-20 15:53:42 -0700",
       "Completed Stay Hydrated": "2020-03-24 01:13:03 -0700",
       "Completed Shredded Wheat": "2020-03-20 19:13:24 -0700",
+      "Completed Fertile Soil": "2020-03-24 22:43:52 -0700",
+      "Completed Nothing Really Mattocks": "2020-03-24 21:41:21 -0700",
       "Completed Beanboozled": "2020-03-24 10:09:38 -0700",
       "Completed Diagon Alley": "2020-03-20 18:48:14 -0700",
+      "Completed Animals Croppings": "2020-03-24 22:33:08 -0700",
       "Completed Cowabonsai!": "2020-03-22 16:14:56 -0700",
+      "Completed TuMULCHuous": "2020-03-24 22:46:38 -0700",
       "Completed Yes We Can!": "2020-03-22 16:19:51 -0700",
       "Completed It\u0027s the End of the World As We Know It": "2020-03-23 12:02:30 -0700",
       "Completed Bonsai!!!": "2020-03-20 16:56:19 -0700",
