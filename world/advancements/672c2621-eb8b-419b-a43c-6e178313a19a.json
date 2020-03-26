@@ -445,6 +445,7 @@
       "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
       "Completed Extraction, Extraction, Read All About It!": "2020-03-25 15:55:51 -0700",
+      "Completed Slush Puppy": "2020-03-25 20:18:07 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
@@ -577,6 +578,7 @@
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed You\u0027re Boron Me": "2020-03-25 11:09:13 -0700",
+      "Completed Come Fly With Me": "2020-03-25 20:27:28 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
@@ -624,6 +626,7 @@
   },
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
+      "Prismarine": "2020-03-25 20:35:29 -0700",
       "Cobblestone": "2020-03-22 21:47:04 -0700"
     },
     "done": false
@@ -826,6 +829,12 @@
       "Obtain Diamond Sapling": "2020-03-22 15:24:13 -0700"
     },
     "done": false
+  },
+  "sf4:age_exploration/viescraft": {
+    "criteria": {
+      "Obtain Airship": "2020-03-25 20:27:28 -0700"
+    },
+    "done": true
   },
   "sf4:age_storage/fluixcrystal": {
     "criteria": {
@@ -1172,6 +1181,12 @@
     },
     "done": true
   },
+  "sf4:age_power/froster": {
+    "criteria": {
+      "Obtain Froster": "2020-03-25 20:18:07 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/wheatseeds": {
     "criteria": {
       "Obtain Wheat Seeds": "2020-03-20 19:14:12 -0700"
@@ -1292,6 +1307,7 @@
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
       "Completed You\u0027re Boron Me": "2020-03-25 11:09:13 -0700",
+      "Completed Come Fly With Me": "2020-03-25 20:27:28 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
@@ -1649,6 +1665,13 @@
     },
     "done": true
   },
+  "sf4:age_exploration/waterinnether": {
+    "criteria": {
+      "Place Da Wata": "2020-03-25 20:39:48 -0700",
+      "Place Da Boat": "2020-03-25 20:40:28 -0700"
+    },
+    "done": true
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration": "2020-03-20 15:52:35 -0700"
@@ -1878,6 +1901,7 @@
       "Completed Jacob\u0027s Ladder": "2020-03-25 12:30:22 -0700",
       "Completed No Chargebacks": "2020-03-24 22:05:34 -0700",
       "Completed Extraction, Extraction, Read All About It!": "2020-03-25 15:55:51 -0700",
+      "Completed Slush Puppy": "2020-03-25 20:18:07 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:31 -0700",
       "Completed Level Up!": "2020-03-24 22:20:50 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:44 -0700",
