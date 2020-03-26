@@ -3,6 +3,11 @@
 #Do not move, edit or delete this file.
 #If you do, backups may not be automatically restorable.
 #=======================================================
+<<<<<<< HEAD:backups/world/Backup--world--2020-03-25--19-51.backupinfo
+#Wed Mar 25 19:51:32 PDT 2020
+date=1585191087937
+=======
 #Wed Mar 25 19:49:47 PDT 2020
 date=1585190984679
+>>>>>>> origin/master:backups/world/Backup--world--2020-03-25--19-49.backupinfo
 world=world
