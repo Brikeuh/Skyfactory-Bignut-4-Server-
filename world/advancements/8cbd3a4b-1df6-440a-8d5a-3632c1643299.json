@@ -577,6 +577,7 @@
     "criteria": {
       "Completed B\u0027Aiken a C\u0027Aiken": "2020-03-25 10:34:02 -0700",
       "Completed You\u0027re Boron Me": "2020-03-25 11:01:29 -0700",
+      "Completed Come Fly With Me": "2020-03-25 20:26:13 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
@@ -770,7 +771,8 @@
   },
   "tutorial:tutorial/copied/lava": {
     "criteria": {
-      "Obtain Lava Clay Bucket": "2020-03-20 17:11:53 -0700"
+      "Obtain Lava Clay Bucket": "2020-03-20 17:11:53 -0700",
+      "Obtain Lava Iron Bucket": "2020-03-25 21:46:07 -0700"
     },
     "done": false
   },
@@ -833,6 +835,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/viescraft": {
+    "criteria": {
+      "Obtain Airship": "2020-03-25 20:26:13 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/fluixcrystal": {
     "criteria": {
       "Obtain Fluix Crystal": "2020-03-25 09:06:11 -0700"
@@ -888,10 +896,11 @@
       "Completed Condensed Milk": "2020-03-22 17:08:18 -0700",
       "Completed Nothing Really Mattocks": "2020-03-24 21:41:21 -0700",
       "Completed Beanboozled": "2020-03-24 10:09:38 -0700",
+      "Completed All the Trees": "2020-03-25 19:51:03 -0700",
       "Completed Diagon Alley": "2020-03-20 18:48:14 -0700",
       "Completed Animals Croppings": "2020-03-24 22:33:08 -0700"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/copied/ironbucket": {
     "criteria": {
@@ -1304,6 +1313,7 @@
     "criteria": {
       "Completed B\u0027Aiken a C\u0027Aiken": "2020-03-25 10:34:02 -0700",
       "Completed You\u0027re Boron Me": "2020-03-25 11:01:29 -0700",
+      "Completed Come Fly With Me": "2020-03-25 20:26:13 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
@@ -1640,6 +1650,7 @@
       "Obtain Diamond Sapling": "2020-03-22 15:24:25 -0700",
       "Obtain Copper Sapling": "2020-03-24 20:53:59 -0700",
       "Obtain Cottonwood Sapling": "2020-03-22 14:13:46 -0700",
+      "Obtain Ardite Sapling": "2020-03-25 19:51:03 -0700",
       "Obtain Lapis Sapling": "2020-03-22 14:52:33 -0700",
       "Obtain Bacon Sapling": "2020-03-22 15:42:18 -0700",
       "Obtain Donut Sapling": "2020-03-22 15:36:21 -0700",
@@ -1656,13 +1667,21 @@
       "Obtain Clay Sapling": "2020-03-20 16:41:32 -0700",
       "Obtain Gravel Sapling": "2020-03-20 18:13:04 -0700",
       "Obtain Bone Sapling": "2020-03-20 18:05:23 -0700",
-      "Obtain Quartz Sapling": "2020-03-23 22:24:37 -0700"
+      "Obtain Quartz Sapling": "2020-03-23 22:24:37 -0700",
+      "Obtain Cobalt Sapling": "2020-03-25 19:51:02 -0700"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_exploration/floaty": {
     "criteria": {
       "Obtain Floaty McFloaty Block": "2020-03-25 09:04:33 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/waterinnether": {
+    "criteria": {
+      "Place Da Wata": "2020-03-25 20:39:39 -0700",
+      "Place Da Boat": "2020-03-25 20:37:59 -0700"
     },
     "done": true
   },
@@ -1990,6 +2009,7 @@
       "Completed Fertile Soil": "2020-03-24 22:43:52 -0700",
       "Completed Nothing Really Mattocks": "2020-03-24 21:41:21 -0700",
       "Completed Beanboozled": "2020-03-24 10:09:38 -0700",
+      "Completed All the Trees": "2020-03-25 19:51:03 -0700",
       "Completed Diagon Alley": "2020-03-20 18:48:14 -0700",
       "Completed Animals Croppings": "2020-03-24 22:33:08 -0700",
       "Completed Cowabonsai!": "2020-03-22 16:14:56 -0700",
