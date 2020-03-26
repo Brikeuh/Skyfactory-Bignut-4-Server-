@@ -11,6 +11,12 @@
     },
     "done": false
   },
+  "sf4:age_power/melter": {
+    "criteria": {
+      "Obtain Melter": "2020-03-26 15:56:40 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/complete": {
     "criteria": {
       "Completed Amber is the Color of my Dinosaur": "2020-03-22 14:58:59 -0700",
@@ -261,6 +267,7 @@
   },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
+      "Obtain Elytra": "2020-03-26 12:56:47 -0700",
       "Completed Age of Exploration": "2020-03-20 15:53:42 -0700"
     },
     "done": false
@@ -391,6 +398,12 @@
     },
     "done": false
   },
+  "compactmachines:test/13x13x132": {
+    "criteria": {
+      "Obtain some Dragon\u0027s Breath": "2020-03-26 13:49:31 -0700"
+    },
+    "done": false
+  },
   "tutorial:tutorial/woodencrook": {
     "criteria": {
       "Obtain a Wooden Crook": "2020-03-20 16:07:55 -0700"
@@ -425,6 +438,7 @@
   "sf4:age_power/completenoprestige": {
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
+      "Completed Bring Me to Life": "2020-03-26 13:43:14 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:24 -0700",
@@ -433,10 +447,12 @@
       "Completed Max Power": "2020-03-25 12:20:19 -0700",
       "Completed Config-a-ma-whatzit": "2020-03-25 16:03:36 -0700",
       "Completed Gotta Smelt Fast": "2020-03-25 15:59:38 -0700",
+      "Completed Getting into Shape": "2020-03-26 15:34:46 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:30 -0700",
       "Completed Clicker Hero": "2020-03-24 11:35:40 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:06:03 -0700",
       "Completed Made for Each Other": "2020-03-25 16:38:18 -0700",
+      "Completed The End of all Matter": "2020-03-26 13:38:57 -0700",
       "Completed Age of Power": "2020-03-20 15:53:42 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:30 -0700",
       "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:27 -0700",
@@ -452,6 +468,7 @@
       "Completed Slush Puppy": "2020-03-25 16:57:02 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:01 -0700",
       "Completed Level Up!": "2020-03-24 22:21:10 -0700",
+      "Completed Warm and Gooey": "2020-03-26 15:56:40 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:36 -0700",
       "Completed The Study Guide": "2020-03-24 10:05:33 -0700",
       "Completed Oops I Did It Again": "2020-03-25 10:17:30 -0700"
@@ -582,13 +599,15 @@
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:37 -0700",
+      "Completed Need a Mint?": "2020-03-26 13:49:31 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:15 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:52 -0700",
       "Completed Nether Here Nor There": "2020-03-23 11:14:39 -0700",
       "Completed Even Scotty Doesn\u0027t Know": "2020-03-25 10:59:57 -0700",
       "Completed Floaty McFloaty": "2020-03-25 09:04:33 -0700",
       "Completed Age of Exploration": "2020-03-20 15:53:42 -0700",
-      "Completed Light up Your Night": "2020-03-25 10:57:45 -0700"
+      "Completed Light up Your Night": "2020-03-25 10:57:45 -0700",
+      "Completed It Gives You Wings": "2020-03-26 12:56:47 -0700"
     },
     "done": false
   },
@@ -626,7 +645,10 @@
   },
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
-      "Cobblestone": "2020-03-22 15:35:10 -0700"
+      "Lithium": "2020-03-26 15:27:20 -0700",
+      "Boron": "2020-03-26 15:27:23 -0700",
+      "Cobblestone": "2020-03-22 15:35:10 -0700",
+      "Steel": "2020-03-26 13:43:47 -0700"
     },
     "done": false
   },
@@ -798,7 +820,8 @@
   },
   "compactmachines:test/5x5x5": {
     "criteria": {
-      "Obtain Porcelain Melter": "2020-03-22 14:23:21 -0700"
+      "Obtain Porcelain Melter": "2020-03-22 14:23:21 -0700",
+      "Obtain Melter": "2020-03-26 15:08:21 -0700"
     },
     "done": false
   },
@@ -913,6 +936,12 @@
       "Obtain Iron Ingot": "2020-03-22 15:01:11 -0700"
     },
     "done": false
+  },
+  "sf4:age_power/zombiedatamodel": {
+    "criteria": {
+      "Obtain Zombie Data Model": "2020-03-26 13:43:14 -0700"
+    },
+    "done": true
   },
   "sf4:age_power/configurator": {
     "criteria": {
@@ -1318,13 +1347,15 @@
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:37 -0700",
+      "Completed Need a Mint?": "2020-03-26 13:49:31 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:15 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:52 -0700",
       "Completed Nether Here Nor There": "2020-03-23 11:14:39 -0700",
       "Completed Even Scotty Doesn\u0027t Know": "2020-03-25 10:59:57 -0700",
       "Completed Floaty McFloaty": "2020-03-25 09:04:33 -0700",
       "Completed Age of Exploration": "2020-03-20 15:53:42 -0700",
-      "Completed Light up Your Night": "2020-03-25 10:57:45 -0700"
+      "Completed Light up Your Night": "2020-03-25 10:57:45 -0700",
+      "Completed It Gives You Wings": "2020-03-26 12:56:47 -0700"
     },
     "done": false
   },
@@ -1709,6 +1740,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/dragonbreath": {
+    "criteria": {
+      "Obtain Dragon\u0027s Breath": "2020-03-26 13:49:31 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/sand": {
     "criteria": {
       "Completed Root": "2020-03-20 15:53:42 -0700",
@@ -1861,6 +1898,12 @@
     },
     "done": true
   },
+  "sf4:age_power/pristineendermanmatter": {
+    "criteria": {
+      "Obtain Pristine Enderman Matter": "2020-03-26 13:38:57 -0700"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/modifiermaster": {
     "criteria": {
       "Fiery": "2020-03-24 10:55:34 -0700",
@@ -1888,6 +1931,7 @@
   "sf4:age_power/complete": {
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
+      "Completed Bring Me to Life": "2020-03-26 13:43:14 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:24 -0700",
@@ -1895,11 +1939,13 @@
       "Completed Max Power": "2020-03-25 12:20:19 -0700",
       "Completed Config-a-ma-whatzit": "2020-03-25 16:03:36 -0700",
       "Completed Gotta Smelt Fast": "2020-03-25 15:59:38 -0700",
+      "Completed Getting into Shape": "2020-03-26 15:34:46 -0700",
       "Completed What\u0027s the Matter with Overworldians?": "2020-03-24 10:05:30 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed Clicker Hero": "2020-03-24 11:35:40 -0700",
       "Completed Chargin\u0027 Mah Lazer!": "2020-03-24 22:06:03 -0700",
       "Completed Made for Each Other": "2020-03-25 16:38:18 -0700",
+      "Completed The End of all Matter": "2020-03-26 13:38:57 -0700",
       "Completed Age of Power": "2020-03-20 15:53:42 -0700",
       "Completed Go, Go, Building Gadget": "2020-03-24 22:24:30 -0700",
       "Completed I\u0027ll Dehydrate You": "2020-03-25 12:10:27 -0700",
@@ -1915,6 +1961,7 @@
       "Completed Slush Puppy": "2020-03-25 16:57:02 -0700",
       "Completed It Keeps Going... and Going...": "2020-03-25 12:25:01 -0700",
       "Completed Level Up!": "2020-03-24 22:21:10 -0700",
+      "Completed Warm and Gooey": "2020-03-26 15:56:40 -0700",
       "Completed Generator, I Hardly Know Her": "2020-03-23 12:30:36 -0700",
       "Completed The Study Guide": "2020-03-24 10:05:33 -0700",
       "Completed Oops I Did It Again": "2020-03-25 10:17:30 -0700"
@@ -1964,9 +2011,21 @@
     },
     "done": true
   },
+  "sf4:age_exploration/elytra": {
+    "criteria": {
+      "Obtain Elytra": "2020-03-26 12:56:47 -0700"
+    },
+    "done": true
+  },
   "sf4:age_power/autoclicker": {
     "criteria": {
       "Obtain Auto Clicker": "2020-03-24 11:35:40 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/ingotformer": {
+    "criteria": {
+      "Obtain Ingot Former": "2020-03-26 15:34:46 -0700"
     },
     "done": true
   },
@@ -2025,6 +2084,7 @@
   },
   "sf4:age_allthethingsomglol/pristinematter": {
     "criteria": {
+      "Pristine Enderman Matter": "2020-03-26 13:38:57 -0700",
       "Pristine Zombie Matter": "2020-03-24 10:05:29 -0700"
     },
     "done": false
