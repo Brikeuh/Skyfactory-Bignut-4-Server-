@@ -434,6 +434,7 @@
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:30 -0700",
       "Completed Bring Me to Life": "2020-03-24 09:54:25 -0700",
+      "Completed Withered Away": "2020-03-26 19:05:20 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:13:05 -0700",
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:39 -0700",
@@ -548,8 +549,10 @@
   },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
+      "Completed \u0027Hey Smalls, You want S\u0027more?\u0027": "2020-03-26 20:17:09 -0700",
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:32 -0700",
+      "Completed DarkToasto": "2020-03-26 21:33:10 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:52:35 -0700"
     },
     "done": false
@@ -565,6 +568,12 @@
       "inventoryChange": "2020-03-20 15:52:35 -0700"
     },
     "done": true
+  },
+  "compactmachines:test/11x11x112": {
+    "criteria": {
+      "Obtain Pristine Wither Matter": "2020-03-26 19:44:07 -0700"
+    },
+    "done": false
   },
   "compactmachines:test/9x9x92": {
     "criteria": {
@@ -599,10 +608,12 @@
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:24 -0700",
+      "Completed Wither Without You": "2020-03-26 19:17:47 -0700",
       "Completed Need a Mint?": "2020-03-26 13:50:19 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:33 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:40 -0700",
       "Completed Nether Here Nor There": "2020-03-22 21:11:06 -0700",
+      "Completed Even Scotty Doesn\u0027t Know": "2020-03-26 20:25:05 -0700",
       "Completed Floaty McFloaty": "2020-03-25 09:04:25 -0700",
       "Completed Age of Exploration": "2020-03-20 15:52:35 -0700",
       "Completed Light up Your Night": "2020-03-25 11:09:31 -0700",
@@ -700,6 +711,12 @@
       "Obtain a Dirt Sapling": "2020-03-20 16:08:00 -0700"
     },
     "done": false
+  },
+  "prestige:prestige/parabox": {
+    "criteria": {
+      "hasRock": "2020-03-26 23:21:09 -0700"
+    },
+    "done": true
   },
   "sf4:age_storage/simplestoragecontroller": {
     "criteria": {
@@ -959,7 +976,9 @@
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:52:35 -0700",
+      "Completed \u0027Hey Smalls, You want S\u0027more?\u0027": "2020-03-26 20:17:09 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:32 -0700",
+      "Completed DarkToasto": "2020-03-26 21:33:10 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:52:35 -0700"
     },
     "done": false
@@ -992,6 +1011,12 @@
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
       "Obtain Cottonwood Sapling": "2020-03-21 20:38:54 -0700"
+    },
+    "done": true
+  },
+  "prestige:prestige/space_time_equalizer": {
+    "criteria": {
+      "Acquire Space Time Equalizer": "2020-03-26 21:04:44 -0700"
     },
     "done": true
   },
@@ -1237,6 +1262,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/witherkill": {
+    "criteria": {
+      "Killed Wither": "2020-03-26 19:17:47 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/energyacceptor": {
     "criteria": {
       "Obtain Energy Acceptor": "2020-03-25 10:06:28 -0700"
@@ -1338,10 +1369,12 @@
       "Completed No Cake Like Home": "2020-03-22 21:11:06 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:56:32 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:24 -0700",
+      "Completed Wither Without You": "2020-03-26 19:17:47 -0700",
       "Completed Need a Mint?": "2020-03-26 13:50:19 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:33 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:40 -0700",
       "Completed Nether Here Nor There": "2020-03-22 21:11:06 -0700",
+      "Completed Even Scotty Doesn\u0027t Know": "2020-03-26 20:25:05 -0700",
       "Completed Floaty McFloaty": "2020-03-25 09:04:25 -0700",
       "Completed Age of Exploration": "2020-03-20 15:52:35 -0700",
       "Completed Light up Your Night": "2020-03-25 11:09:31 -0700",
@@ -1514,6 +1547,12 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/smore": {
+    "criteria": {
+      "Obtain MoreS\u0027more DoubleS\u0027mingot": "2020-03-26 20:17:09 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/hydrogel": {
     "criteria": {
       "Obtain Hydrogel": "2020-03-24 09:11:25 -0700"
@@ -1592,6 +1631,12 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/darkosandwich": {
+    "criteria": {
+      "Obtain Metal Pickaxe Head Cast": "2020-03-26 21:33:10 -0700"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/gravelsapling": {
     "criteria": {
       "Obtain Gravel Sapling": "2020-03-20 18:12:53 -0700"
@@ -1632,6 +1677,12 @@
   "sf4:age_storage/logicprocessor": {
     "criteria": {
       "Obtain Logic Processor": "2020-03-25 10:25:49 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/dilithiumore": {
+    "criteria": {
+      "Obtain Dilithium Crystals": "2020-03-26 20:25:05 -0700"
     },
     "done": true
   },
@@ -1919,6 +1970,7 @@
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:30 -0700",
       "Completed Bring Me to Life": "2020-03-24 09:54:25 -0700",
+      "Completed Withered Away": "2020-03-26 19:05:20 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:13:05 -0700",
       "Completed What the Heck?!": "2020-03-24 12:09:03 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:39 -0700",
@@ -2011,6 +2063,12 @@
     },
     "done": true
   },
+  "prestige:prestige/clock": {
+    "criteria": {
+      "Acquire Clock": "2020-03-26 20:11:51 -0700"
+    },
+    "done": true
+  },
   "sf4:age_power/ingotformer": {
     "criteria": {
       "Obtain Ingot Former": "2020-03-26 15:38:15 -0700"
@@ -2039,6 +2097,12 @@
   "sf4:age_power/speedmodifier": {
     "criteria": {
       "Obtain Speed Modifier": "2020-03-24 22:20:57 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/pristinewitherskeletonmatter": {
+    "criteria": {
+      "Obtain Pristine Wither Skeleton Matter": "2020-03-26 19:05:20 -0700"
     },
     "done": true
   },
@@ -2074,6 +2138,8 @@
       "Pristine Skeleton Matter": "2020-03-24 14:09:42 -0700",
       "Pristine Blaze Matter": "2020-03-24 15:17:50 -0700",
       "Pristine Enderman Matter": "2020-03-26 13:16:08 -0700",
+      "Pristine Wither Skeleton Matter": "2020-03-26 19:05:20 -0700",
+      "Pristine Wither Matter": "2020-03-26 19:44:07 -0700",
       "Pristine Creeper Matter": "2020-03-24 14:10:00 -0700",
       "Pristine Zombie Matter": "2020-03-24 10:05:05 -0700",
       "Pristine Spider Matter": "2020-03-24 14:28:41 -0700"

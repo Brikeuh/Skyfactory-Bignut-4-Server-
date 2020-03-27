@@ -234,6 +234,12 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/cookie": {
+    "criteria": {
+      "Right Click Filled Cookie Jar": "2020-03-27 02:32:23 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/lavasource": {
     "criteria": {
       "Completed Root": "2020-03-20 15:53:42 -0700",
@@ -439,6 +445,7 @@
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
       "Completed Bring Me to Life": "2020-03-26 13:43:14 -0700",
+      "Completed Withered Away": "2020-03-26 23:11:40 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:24 -0700",
@@ -553,8 +560,11 @@
   },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
+      "Completed \u0027Hey Smalls, You want S\u0027more?\u0027": "2020-03-26 20:17:04 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:17 -0700",
+      "Completed DarkToasto": "2020-03-26 21:33:05 -0700",
+      "Completed Who Stole the Cookies from the Cookie Jar?": "2020-03-27 02:32:23 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:53:42 -0700"
     },
     "done": false
@@ -596,9 +606,11 @@
       "Completed You\u0027re Boron Me": "2020-03-25 11:01:29 -0700",
       "Completed Come Fly With Me": "2020-03-25 20:26:13 -0700",
       "Prestige Mode": "2020-03-22 16:09:22 -0700",
+      "Completed Let the Hunt Begin": "2020-03-26 20:46:50 -0700",
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:37 -0700",
+      "Completed Wither Without You": "2020-03-26 19:09:45 -0700",
       "Completed Need a Mint?": "2020-03-26 13:49:31 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:15 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:52 -0700",
@@ -707,6 +719,12 @@
       "Obtain a Dirt Sapling": "2020-03-20 16:08:13 -0700"
     },
     "done": false
+  },
+  "prestige:prestige/parabox": {
+    "criteria": {
+      "hasRock": "2020-03-26 23:21:26 -0700"
+    },
+    "done": true
   },
   "sf4:age_storage/simplestoragecontroller": {
     "criteria": {
@@ -967,7 +985,10 @@
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
+      "Completed \u0027Hey Smalls, You want S\u0027more?\u0027": "2020-03-26 20:17:04 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:17 -0700",
+      "Completed DarkToasto": "2020-03-26 21:33:05 -0700",
+      "Completed Who Stole the Cookies from the Cookie Jar?": "2020-03-27 02:32:23 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:53:42 -0700"
     },
     "done": false
@@ -1245,9 +1266,21 @@
     },
     "done": false
   },
+  "sf4:age_exploration/witherkill": {
+    "criteria": {
+      "Killed Wither": "2020-03-26 19:09:45 -0700"
+    },
+    "done": true
+  },
   "sf4:age_storage/energyacceptor": {
     "criteria": {
       "Obtain Energy Acceptor": "2020-03-25 10:04:08 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/huntingdimension": {
+    "criteria": {
+      "Entered Hunting Dimension": "2020-03-26 20:46:50 -0700"
     },
     "done": true
   },
@@ -1344,9 +1377,11 @@
       "Completed You\u0027re Boron Me": "2020-03-25 11:01:29 -0700",
       "Completed Come Fly With Me": "2020-03-25 20:26:13 -0700",
       "Prestige Mode Disabled": "2020-03-20 15:53:42 -0700",
+      "Completed Let the Hunt Begin": "2020-03-26 20:46:50 -0700",
       "Completed No Cake Like Home": "2020-03-23 11:14:39 -0700",
       "Completed Smells Like Nirvana": "2020-03-25 10:59:00 -0700",
       "Completed Lost and Found": "2020-03-25 10:47:37 -0700",
+      "Completed Wither Without You": "2020-03-26 19:09:45 -0700",
       "Completed Need a Mint?": "2020-03-26 13:49:31 -0700",
       "Completed Where\u0027s the Boss?": "2020-03-25 10:42:15 -0700",
       "Completed You\u0027re Tritanium to Bring Me Down": "2020-03-25 10:54:52 -0700",
@@ -1524,6 +1559,12 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/smore": {
+    "criteria": {
+      "Obtain MoreS\u0027more DoubleS\u0027mingot": "2020-03-26 20:17:04 -0700"
+    },
+    "done": true
+  },
   "sf4:age_farming/hydrogel": {
     "criteria": {
       "Obtain Hydrogel": "2020-03-24 01:13:03 -0700"
@@ -1599,6 +1640,12 @@
   "sf4:age_power/exchangertool": {
     "criteria": {
       "Obtain Exchanger Tool": "2020-03-25 10:17:30 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/darkosandwich": {
+    "criteria": {
+      "Obtain Metal Pickaxe Head Cast": "2020-03-26 21:33:05 -0700"
     },
     "done": true
   },
@@ -1932,6 +1979,7 @@
     "criteria": {
       "Completed Tesla was Right!": "2020-03-24 22:06:36 -0700",
       "Completed Bring Me to Life": "2020-03-26 13:43:14 -0700",
+      "Completed Withered Away": "2020-03-26 23:11:40 -0700",
       "Completed The Truth is Out There": "2020-03-24 12:25:51 -0700",
       "Completed What the Heck?!": "2020-03-24 12:26:21 -0700",
       "Completed Ctrl-Z": "2020-03-25 16:53:24 -0700",
@@ -2023,6 +2071,12 @@
     },
     "done": true
   },
+  "prestige:prestige/clock": {
+    "criteria": {
+      "Acquire Clock": "2020-03-26 20:12:03 -0700"
+    },
+    "done": true
+  },
   "sf4:age_power/ingotformer": {
     "criteria": {
       "Obtain Ingot Former": "2020-03-26 15:34:46 -0700"
@@ -2051,6 +2105,12 @@
   "sf4:age_power/speedmodifier": {
     "criteria": {
       "Obtain Speed Modifier": "2020-03-24 22:21:11 -0700"
+    },
+    "done": true
+  },
+  "sf4:age_power/pristinewitherskeletonmatter": {
+    "criteria": {
+      "Obtain Pristine Wither Skeleton Matter": "2020-03-26 23:11:40 -0700"
     },
     "done": true
   },
@@ -2085,6 +2145,7 @@
   "sf4:age_allthethingsomglol/pristinematter": {
     "criteria": {
       "Pristine Enderman Matter": "2020-03-26 13:38:57 -0700",
+      "Pristine Wither Skeleton Matter": "2020-03-26 23:11:40 -0700",
       "Pristine Zombie Matter": "2020-03-24 10:05:29 -0700"
     },
     "done": false
