@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/cookie": {
+    "criteria": {
+      "Right Click Filled Cookie Jar": "2020-03-27 17:56:35 -0700"
+    },
+    "done": true
+  },
   "sf4:age1/lavasource": {
     "criteria": {
       "Completed Root": "2020-03-20 15:52:35 -0700",
@@ -553,6 +559,7 @@
       "Prestige Mode": "2020-03-22 16:07:57 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:32 -0700",
       "Completed DarkToasto": "2020-03-26 21:33:10 -0700",
+      "Completed Who Stole the Cookies from the Cookie Jar?": "2020-03-27 17:56:35 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:52:35 -0700"
     },
     "done": false
@@ -979,6 +986,7 @@
       "Completed \u0027Hey Smalls, You want S\u0027more?\u0027": "2020-03-26 20:17:09 -0700",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient": "2020-03-24 21:39:32 -0700",
       "Completed DarkToasto": "2020-03-26 21:33:10 -0700",
+      "Completed Who Stole the Cookies from the Cookie Jar?": "2020-03-27 17:56:35 -0700",
       "Completed Age of ALLTHETHINGSOMGLOL": "2020-03-20 15:52:35 -0700"
     },
     "done": false
@@ -1947,6 +1955,7 @@
       "Diamond": "2020-03-23 17:34:24 -0700",
       "Sharpness": "2020-03-23 18:43:51 -0700",
       "Haste": "2020-03-24 14:51:21 -0700",
+      "Silktouch": "2020-03-27 18:21:14 -0700",
       "Luck": "2020-03-23 18:43:51 -0700",
       "Beheading": "2020-03-25 12:09:44 -0700",
       "Necrotic": "2020-03-26 12:20:13 -0700",
